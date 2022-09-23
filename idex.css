@@ -292,10 +292,35 @@ footer .container{
 
     }
 
+
     #areas .areast{
         display: flex;
-        overflow: auto;
+        overflow-x: auto ;
+        overscroll-behavior-inline : contain ;
+  
+
     }
+
+    .areast::-webkit-scrollbar {
+        width: 2em;
+        height: 1em;
+      }
+      
+      .areast::-webkit-scrollbar-track {
+        background: #FBB900;
+        border-radius: 100vw;
+        margin-block: 0.5em;
+      }
+      
+      .areast::-webkit-scrollbar-thumb {
+        background: #004388;
+        border: 0.3em solid #FBB900;
+        border-radius: 100vw;
+      }
+      
+      .areast::-webkit-scrollbar-thumb:hover {
+        background: #0F366A;
+      }
 
 
 
