@@ -1,0 +1,144 @@
+@font-face {
+    font-family: 'Vision';
+    src: url('Vision-BlackItalic.eot');
+    src: local('Vision Black Italic'), local('Vision-BlackItalic'),
+        url('Vision-BlackItalic.eot?#iefix') format('embedded-opentype'),
+        url('Vision-BlackItalic.woff2') format('woff2'),
+        url('Vision-BlackItalic.woff') format('woff'),
+        url('Vision-BlackItalic.ttf') format('truetype');
+    font-weight: 900;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Vision';
+    src: url('Vision-Italic.eot');
+    src: local('Vision Italic'), local('Vision-Italic'),
+        url('Vision-Italic.eot?#iefix') format('embedded-opentype'),
+        url('Vision-Italic.woff2') format('woff2'),
+        url('Vision-Italic.woff') format('woff'),
+        url('Vision-Italic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Vision';
+    src: url('Vision-Thin.eot');
+    src: local('Vision Thin'), local('Vision-Thin'),
+        url('Vision-Thin.eot?#iefix') format('embedded-opentype'),
+        url('Vision-Thin.woff2') format('woff2'),
+        url('Vision-Thin.woff') format('woff'),
+        url('Vision-Thin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Vision';
+    src: url('Vision-Bold.eot');
+    src: local('Vision Bold'), local('Vision-Bold'),
+        url('Vision-Bold.eot?#iefix') format('embedded-opentype'),
+        url('Vision-Bold.woff2') format('woff2'),
+        url('Vision-Bold.woff') format('woff'),
+        url('Vision-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Vision';
+    src: url('Vision-HeavyItalic.eot');
+    src: local('Vision Heavy Italic'), local('Vision-HeavyItalic'),
+        url('Vision-HeavyItalic.eot?#iefix') format('embedded-opentype'),
+        url('Vision-HeavyItalic.woff2') format('woff2'),
+        url('Vision-HeavyItalic.woff') format('woff'),
+        url('Vision-HeavyItalic.ttf') format('truetype');
+    font-weight: 900;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Vision';
+    src: url('Vision-LightItalic.eot');
+    src: local('Vision Light Italic'), local('Vision-LightItalic'),
+        url('Vision-LightItalic.eot?#iefix') format('embedded-opentype'),
+        url('Vision-LightItalic.woff2') format('woff2'),
+        url('Vision-LightItalic.woff') format('woff'),
+        url('Vision-LightItalic.ttf') format('truetype');
+    font-weight: 300;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Vision';
+    src: url('Vision-Heavy.eot');
+    src: local('Vision Heavy'), local('Vision-Heavy'),
+        url('Vision-Heavy.eot?#iefix') format('embedded-opentype'),
+        url('Vision-Heavy.woff2') format('woff2'),
+        url('Vision-Heavy.woff') format('woff'),
+        url('Vision-Heavy.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Vision';
+    src: url('Vision-Light.eot');
+    src: local('Vision Light'), local('Vision-Light'),
+        url('Vision-Light.eot?#iefix') format('embedded-opentype'),
+        url('Vision-Light.woff2') format('woff2'),
+        url('Vision-Light.woff') format('woff'),
+        url('Vision-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Vision';
+    src: url('Vision-ThinItalic.eot');
+    src: local('Vision Thin Italic'), local('Vision-ThinItalic'),
+        url('Vision-ThinItalic.eot?#iefix') format('embedded-opentype'),
+        url('Vision-ThinItalic.woff2') format('woff2'),
+        url('Vision-ThinItalic.woff') format('woff'),
+        url('Vision-ThinItalic.ttf') format('truetype');
+    font-weight: 100;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Vision';
+    src: url('Vision-Regular.eot');
+    src: local('Vision Regular'), local('Vision-Regular'),
+        url('Vision-Regular.eot?#iefix') format('embedded-opentype'),
+        url('Vision-Regular.woff2') format('woff2'),
+        url('Vision-Regular.woff') format('woff'),
+        url('Vision-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Vision';
+    src: url('Vision-BoldItalic.eot');
+    src: local('Vision Bold Italic'), local('Vision-BoldItalic'),
+        url('Vision-BoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('Vision-BoldItalic.woff2') format('woff2'),
+        url('Vision-BoldItalic.woff') format('woff'),
+        url('Vision-BoldItalic.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Vision';
+    src: url('Vision-Black.eot');
+    src: local('Vision Black'), local('Vision-Black'),
+        url('Vision-Black.eot?#iefix') format('embedded-opentype'),
+        url('Vision-Black.woff2') format('woff2'),
+        url('Vision-Black.woff') format('woff'),
+        url('Vision-Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}
+
